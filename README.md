@@ -140,6 +140,10 @@ ORACLE MASTER（8i Gold）	2001年
 ORACLE MASTER（8i Silver）	2001年  
 ORACLE MASTER（8i Bronze）	2001年  
 Ariba Buyer Application Developer V7	2001年  
+Microsoft Windows ２０００ Professional:MCP試験70-210	2001年  
+Microsoft Windows ２０００ Server:MCP試験70-21５	2001年  
+Microsoft Windows NT Workstation 4.0 : MCP試験70-073 2000年
+Microsoft Windows NT Server 4.0 : MCP試験70-067 2000年
 情報処理技術者（第2種情報処理）	1999年  
 
 ## 自己P R
