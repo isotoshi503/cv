@@ -138,6 +138,7 @@ UMTP L1 Modeler 	2006年
 Sun認定Javaプログラマ(SJC-P)	2002年  
 ORACLE MASTER（8i Gold）	2001年  
 ORACLE MASTER（8i Silver）	2001年  
+ORACLE MASTER（8i Bronze）	2001年  
 Ariba Buyer Application Developer V7	2001年  
 情報処理技術者（第2種情報処理）	1999年  
 
